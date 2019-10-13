@@ -1,0 +1,2 @@
+# Ouvrir un container debian (docker run -it --rm debian /bin/bash) et depuis celui ci :
+apt-get update -y && apt-get upgrade -y && apt-get install build-essential git vim -y
